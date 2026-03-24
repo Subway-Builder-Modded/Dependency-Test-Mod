@@ -1,0 +1,13 @@
+{
+  "id": "org.SBM.DepTestMod",
+  "name": "Dependency Test Mod",
+  "description": "Does fuck all",
+  "version": "v0.1.0",
+  "author": {
+    "name": "Railyard Team"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "subwaybuilder-regions": ">=v0.4.5"
+  }
+}
