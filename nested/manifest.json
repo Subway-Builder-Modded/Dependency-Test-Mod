@@ -1,6 +1,6 @@
 {
-  "id": "dep-test-mod",
-  "name": "Dependency Test Mod",
+  "id": "dep-test-mod-nested",
+  "name": "Dependency Test Mod (Nested)",
   "description": "Does fuck all",
   "version": "v0.1.0",
   "author": {
@@ -8,7 +8,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "subwaybuilder-regions": ">=v0.4.5",
+    "dep-test-mod": ">=0.1.3",
     "subway-builder": ">=1.0.0"
   }
 }
