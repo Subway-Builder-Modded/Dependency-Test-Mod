@@ -8,6 +8,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "subwaybuilder-regions": ">=v0.4.5"
+    "subwaybuilder-regions": ">=v0.4.5",
+    "subway-builder": ">=1.0.0"
   }
 }
