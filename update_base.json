@@ -8,7 +8,7 @@
             "changelog": "test again",
             "download": "https://github.com/Subway-Builder-Modded/Dependency-Test-Mod/releases/download/v0.1.3/mod-base.zip",
             "sha256": "f2ef5d8c5d1c20428ca43dbe33c15a56545e1b6487b57ed590132c91eb068581",
-            "manifest": "https://raw.githubusercontent.com/Subway-Builder-Modded/Dependency-Test-Mod/releases/download/v0.1.3/manifest-base.json"
+            "manifest": "https://github.com/Subway-Builder-Modded/Dependency-Test-Mod/releases/download/v0.1.3/manifest-base.json"
         }
     ]
 }
