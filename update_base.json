@@ -3,7 +3,7 @@
     "versions": [
         {
             "version": "0.1.3",
-            "game_version": ">=150.120.90",
+            "game_version": ">=1.0.0",
             "date": "2026-03-24",
             "changelog": "test again",
             "download": "https://github.com/Subway-Builder-Modded/Dependency-Test-Mod/releases/download/v0.1.3/mod-base.zip",
@@ -12,11 +12,11 @@
         },
         {
             "version": "0.1.4",
-            "game_version": ">=1.0.0",
-            "date": "2026-03-24",
-            "changelog": "test again",
+            "game_version": ">=150.120.90",
+            "date": "2026-04-20",
+            "changelog": "asdfasdf",
             "download": "https://github.com/Subway-Builder-Modded/Dependency-Test-Mod/releases/download/v0.1.4/mod-base.zip",
-            "sha256": "f2ef5d8c5d1c20428ca43dbe33c15a56545e1b6487b57ed590132c91eb068581",
+            "sha256": "sha256:162ec9d981ecb11f3fb393a333fbd04a15a7da9e9a264922741ac6eda36484b9",
             "manifest": "https://github.com/Subway-Builder-Modded/Dependency-Test-Mod/releases/download/v0.1.4/manifest-base.json"
         }
     ]
