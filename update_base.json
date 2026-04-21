@@ -3,7 +3,7 @@
     "versions": [
         {
             "version": "0.1.3",
-            "game_version": ">=1.0.0",
+            "game_version": ">=150.120.90",
             "date": "2026-03-24",
             "changelog": "test again",
             "download": "https://github.com/Subway-Builder-Modded/Dependency-Test-Mod/releases/download/v0.1.3/mod-base.zip",
