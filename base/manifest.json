@@ -9,6 +9,6 @@
   "main": "index.js",
   "dependencies": {
     "subwaybuilder-regions": ">=v0.4.5",
-    "subway-builder": ">=1.0.0"
+    "subway-builder": ">=150.120.90"
   }
 }
